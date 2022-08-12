@@ -75,7 +75,7 @@ time = value=datetime.datetime(year=2022, month=6, day=10, hour=16, minute=30)
 time = time.date()
 
 # Setting background
-set_bg("index.png")
+set_bg("index.jpeg")
 
 with st.sidebar:
     navigation= option_menu(None, ["Home", "Politics Today", "Presidential Election Prediction"], 
