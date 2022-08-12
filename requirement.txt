@@ -1,5 +1,6 @@
 altair==4.2.0
 pandas==1.4.2
+numpy == 1.22.3
 pickleshare==0.7.5
 scikit-learn==1.1.1
 sklearn==0.0
