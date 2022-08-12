@@ -1,0 +1,8 @@
+altair==4.2.0
+pandas==1.4.2
+pickleshare==0.7.5
+scikit-learn==1.1.1
+sklearn==0.0
+streamlit==1.10.0
+streamlit-authenticator==0.1.5
+streamlit-option-menu==0.3.2
