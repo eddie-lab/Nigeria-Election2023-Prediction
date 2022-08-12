@@ -25,7 +25,7 @@ footer {
     visibility:visible;
 }
 footer:after{
-    content:'Copyright © 2022: Indispensables';
+    content:'Copyright © 2022: EDDIE';
     display:block;
     position:relative;
     color:red;
