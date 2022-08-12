@@ -108,7 +108,8 @@ if navigation == "Home":
 if navigation == "Politics Today":
     st.write("""
     **_The 2023 Nigerian presidential election will be held on 25 February 2023 to elect the president and vice president of Nigeria.[1] Incumbent APC President Muhammadu Buhari is term-limited and cannot seek re-election for a third term.  . Here, we seek to show you the trending topics, the changing popularities
-    of political parties and politicians_**
+    of political parties and politicians_
+    The 2023 presidential election is more of a referendum disguised as an election. Underlying the election is an important question of whether Nigerians want Nigeria to remain as a country. What is the consequential implication of a win for each of all top three presidential hopefuls—Bola Ahmed Tinubu, Atiku Abubakar, and Peter Gregory Obi?**
     """)
 
     navigate2 = option_menu(
