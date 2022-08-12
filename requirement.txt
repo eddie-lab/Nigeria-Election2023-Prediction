@@ -7,3 +7,4 @@ sklearn==0.0
 streamlit==1.10.0
 streamlit-authenticator==0.1.5
 streamlit-option-menu==0.3.2
+python==3.8.10
