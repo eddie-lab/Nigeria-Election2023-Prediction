@@ -83,9 +83,9 @@ with st.sidebar:
 
 
 if navigation == "Home":
-    st.markdown("<h2 style='text-align: center; color: black;'>The Indispensables 2022 Election Analysis </h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center; color: black;'>Nigeria 2023 Election Analysis </h2>", unsafe_allow_html=True)
     st.markdown("*****************")
-    st.subheader("About Elections")
+    st.subheader("ABOUT ELECTION")
     
     col1, col2 = st.columns(2)
 
@@ -107,7 +107,7 @@ if navigation == "Home":
     
 if navigation == "Politics Today":
     st.write("""
-    **_The 2023 Nigerian elections will be held, in large part, on 25 February . Here, we seek to show you the trending topics, the changing popularities
+    **_The 2023 Nigerian presidential election will be held on 25 February 2023 to elect the president and vice president of Nigeria.[1] Incumbent APC President Muhammadu Buhari is term-limited and cannot seek re-election for a third term.  . Here, we seek to show you the trending topics, the changing popularities
     of political parties and politicians_**
     """)
 
