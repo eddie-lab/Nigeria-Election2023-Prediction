@@ -1,3 +1,0 @@
-['$2b$12$sJkFOakiaV05li0621P7vOUldNY41HNliQSfNXRZnrqya3802DcU2',
- '$2b$12$QbTJsIVvOAbfvtVloDXnPuLYkIAKXLiWlrmugnrMFApxz8SGca202']
-
